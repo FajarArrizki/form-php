@@ -1,0 +1,14 @@
+{
+  "name": "formphp-dashboard",
+  "version": "1.0.0",
+  "description": "Premium PHP minimalist dashboard template",
+  "scripts": {
+    "start": "php -S localhost:8000",
+    "postinstall": "node -e \"console.log('\\x1b[33m%s\\x1b[0m', 'Ensure you have PHP 8.0 or higher. Download it from https://www.php.net/downloads.')\""
+  },
+  "keywords": [
+    "php"
+  ],
+  "author": "",
+  "license": "MIT"
+}
